@@ -1,3 +1,3 @@
 # OpenCV_Study
-|---|---|
-|Demographics|Value|
+| Demographics | Value |
+| --- | --- |
